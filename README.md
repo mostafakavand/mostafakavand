@@ -21,3 +21,8 @@
 <h3 align="left">🐍 Python | 30%</h3><img align="left" src="https://github.com/mostafakavand/mostafakavand/blob/main/image/bar.png?raw=true" width="150px" height="16px"> -->
 
 <br>
+
+ <h2 align="left">🌞 I am busy with these things now: </h2>
+<h4 align="left">⭐️ Studying for the entrance exam🤓</h4>
+<h4 align="left">⭐️ Progress in Python🐍</h4>
+<h4 align="left">⭐️...</h4>
