@@ -10,9 +10,10 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 
 <br>
+<a href="https://wa.me/989160855428"><img align="right" src="https://github.com/mostafakavand/mostafakavand/blob/main/image/icons8-whatsapp-60.png?raw=true" alt="WhatsApp"></a> <a href="https://t.me/mostafa13438"><img align="right" src="https://github.com/mostafakavand/mostafakavand/blob/main/image/icons8-telegram-app-60.png?raw=true" alt="Telegram"></a> <a
 
 <h2 align="left">Contact Me☎️:</h2>
-<a href="https://wa.me/989160855428"><img align="right" src="https://github.com/mostafakavand/mostafakavand/blob/main/image/icons8-whatsapp-60.png?raw=true" alt="WhatsApp"></a> <a href="https://t.me/mostafa13438"><img align="right" src="https://github.com/mostafakavand/mostafakavand/blob/main/image/icons8-telegram-app-60.png?raw=true" alt="Telegram"></a>
+
 
 <br>
 
