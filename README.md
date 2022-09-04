@@ -17,7 +17,7 @@
 
 <br>
 
-<h2 align="left">🌱I am learning these now:</h2>
-<h3 align="left">🐍 Python | 30%</h3><img align="left" src="https://github.com/mostafakavand/mostafakavand/blob/main/image/bar.png?raw=true" width="150px" height="16px">
+<!-- <h2 align="left">🌱I am learning these now:</h2>
+<h3 align="left">🐍 Python | 30%</h3><img align="left" src="https://github.com/mostafakavand/mostafakavand/blob/main/image/bar.png?raw=true" width="150px" height="16px"> -->
 
 <br>
