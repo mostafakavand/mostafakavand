@@ -27,4 +27,6 @@
 <h4 align="left">⭐️ Progress in Python🐍</h4>
 <h4 align="left">⭐️...</h4>
 
-<h5 align="left">Thanks to</h5> <a href=https://github.com/imrrobat/imrrobat><h5> imrrobat </h5> </a>
+<br>
+
+<h5 align="right">Thanks to <a href="https://github.com/imrrobat/imrrobat">imrrobat</a></h5>
