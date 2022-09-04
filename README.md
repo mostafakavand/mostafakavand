@@ -15,3 +15,6 @@
 <a href="https://wa.me/989160855428"><img align="left" src="https://github.com/mostafakavand/mostafakavand/blob/main/image/icons8-whatsapp-60.png?raw=true" alt="WhatsApp"></a> <a href="https://t.me/mostafa13438"><img align="left" src="https://github.com/mostafakavand/mostafakavand/blob/main/image/icons8-telegram-app-60.png?raw=true" alt="Telegram"></a> <a 
 
 <br>
+
+<h2 align="left">🌱I am learning these now:</h2>
+<h3 align="left">🐍 Python | 30%</h3><img align="left" src="https://github.com/mostafakavand/mostafakavand/blob/main/image/bar.png?raw=true" width="150px" height="16px">
