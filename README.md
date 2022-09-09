@@ -30,8 +30,6 @@
 
 <br>
 
-# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafakavand&show_icons=true)](https://github.com/mostafakavand)
 
-<br>
 
-<h5 align="right">Thanks to <a href="https://github.com/imrrobat/imrrobat">imrrobat</a></h5>
+##### <p align="right"> Thanks to <a href="https://github.com/imrrobat/imrrobat">imrrobat </p>
