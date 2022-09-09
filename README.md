@@ -1,6 +1,7 @@
 # Who am I?
 
-<img src="https://user-images.githubusercontent.com/111739753/188306197-980bd2b7-109e-4588-a968-04b33e7dc993.svg" alt="just for fun :D">
+ <img src="https://user-images.githubusercontent.com/111739753/188306197-980bd2b7-109e-4588-a968-04b33e7dc993.svg" alt="just for fun :D">
+ 
 
 <h2 align="center">👋Hello, I am Mustafa Kavand</h2>
 <p align="center">  💻I am learning python right now🐍</p>
@@ -22,10 +23,14 @@
 
 <br>
 
- <h2 align="left">🌞 I am busy with these things now: </h2>
+<h2 align="left">🌞 I am busy with these things now: </h2>
 <h4 align="left">⭐️ Studying for the entrance exam🤓</h4>
 <h4 align="left">⭐️ Progress in Python🐍</h4>
 <h4 align="left">⭐️...</h4>
+
+<br>
+
+# [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mostafakavand&show_icons=true)](https://github.com/mostafakavand)
 
 <br>
 
