@@ -5,7 +5,9 @@
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mostafakavand&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![]<div class="glass-effect">
+    <img src="https://github-readme-stats.vercel.app/api?username=mostafakavand&theme=city_light&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</div>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mostafakavand&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafakavand&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
