@@ -7,8 +7,8 @@
 # 📊 GitHub Stats:
 <div class="glass-effect">
     <img src="https://github-readme-stats.vercel.app/api?username=mostafakavand&theme=city_light&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-https://github-readme-streak-stats.herokuapp.com/?user=mostafakavand&theme=city_light&hide_border=false" alt="streak">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafakavand&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="streak">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mostafakavand&theme=city_light&hide_border=false" alt="streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafakavand&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="most used laguages">
 </div>
 
 ## 🏆 GitHub Trophies
