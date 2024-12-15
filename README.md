@@ -6,10 +6,10 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # 📊 GitHub Stats:
 ![]<div class="glass-effect">
-    <img src="https://github-readme-stats.vercel.app/api?username=mostafakavand&theme=city_light&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
-</div> <br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mostafakavand&theme=city_light&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mostafakavand&theme=city_light&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mostafakavand&theme=city_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mostafakavand&theme=algolia&no-frame=false&no-bg=true&margin-w=4)
